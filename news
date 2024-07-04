@@ -1,266 +1,265 @@
 {
-"status": "ok",
-"totalResults": 33,
--"articles": [
--{
--"source": {
-"id": null,
-"name": "Florida Today"
-},
-"author": "Florida Today",
-"title": "Launch recap: SpaceX rocket brings light show in morning sky - Florida Today",
-"description": null,
-"url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/07/02/spacex-falcon-9-blast-off-liftoff-starlink-launch-cape-canaveral-florida-wednesday/74234815007/",
-"urlToImage": null,
-"publishedAt": "2024-07-04T11:07:13Z",
-"content": null
-},
--{
--"source": {
-"id": "politico",
-"name": "Politico"
-},
-"author": "POLITICO",
-"title": "Trump scored big wins at the Supreme Court this term. Here's who else won and lost. - POLITICO",
-"description": null,
-"url": "https://www.politico.com/news/2024/07/04/2024-supreme-court-decisions-00166571",
-"urlToImage": null,
-"publishedAt": "2024-07-04T11:00:00Z",
-"content": null
-},
--{
--"source": {
-"id": null,
-"name": "BBC News"
-},
-"author": null,
-"title": "Hurricane Beryl: Many Jamaicans without power after storm thunders through - BBC.com",
-"description": "The powerful storm has passed, but torrential rain has prompted new warnings.",
-"url": "https://www.bbc.com/news/articles/ckdg7rp7vk9o",
-"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8d04/live/21ed1ed0-39fa-11ef-a044-9d4367d5b599.jpg",
-"publishedAt": "2024-07-04T10:42:40Z",
-"content": "By Nick Davis, BBC News, Kingston\r\nHundreds of thousands of homes in Jamaica are without power, after Hurricane Beryl thundered along the island's southern coast on Wednesday night.\r\nThe category fou… [+3129 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "CNBC"
-},
-"author": "April Roach",
-"title": "Novo Nordisk shares shrug off concerns over study linking weight loss drugs to rare eye condition - CNBC",
-"description": "Novo Nordisk investors appeared unperturbed Thursday by a critical Harvard report that linked weight loss drugs to a rare eye condition.",
-"url": "https://www.cnbc.com/2024/07/04/novo-nordisk-weight-loss-drugs-linked-to-rare-eye-condition-study.html",
-"urlToImage": "https://image.cnbcfm.com/api/v1/image/107393001-17114709252023-03-29t000000z_1653336606_rc2w30aoohoj_rtrmadp_0_usa-health.jpeg?v=1711470985&w=1920&h=1080",
-"publishedAt": "2024-07-04T10:23:49Z",
-"content": "Novo Nordisk investors appeared unperturbed Thursday by a critical Harvard report that linked weight loss drugs to a rare eye condition.\r\nSemaglutide, which is present in weight loss drugs including … [+3139 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "MLB.com"
-},
-"author": "MLB.com",
-"title": "2024 MLB All-Star Game starters - MLB.com",
-"description": null,
-"url": "https://www.mlb.com/news/2024-mlb-all-star-game-starters",
-"urlToImage": null,
-"publishedAt": "2024-07-04T10:09:51Z",
-"content": null
-},
--{
--"source": {
-"id": "the-hill",
-"name": "The Hill"
-},
-"author": "Taylor Giorno",
-"title": "What happens to Biden’s campaign cash if he drops out - The Hill",
-"description": "President Biden would have total control over the millions of dollars raised by his presidential campaign if he chooses to drop out of the race against former President Trump, campaign finance experts told The Hill. Biden is facing growing pressure to step ba…",
-"url": "https://thehill.com/homenews/campaign/4753737-biden-drop-out-rumors-campaign-funding/",
-"urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/campaign-funds_giorno_illo_SamanthaWongGregNashAdobeStock.jpg?w=1280",
-"publishedAt": "2024-07-04T10:00:00Z",
-"content": "Skip to content\r\nPresident Biden would have total control over the millions of dollars raised by his presidential campaign if he chooses to drop out of the race against former President Trump, campai… [+7201 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "BBC News"
-},
-"author": null,
-"title": "Chinese electric car makers hit with new European Union tariffs - BBC.com",
-"description": "The move poses a challenge to Beijing, which hopes EVs will help revive the country's flagging economy.",
-"url": "https://www.bbc.com/news/articles/cy99z53qypko",
-"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb81/live/f9652020-38cd-11ef-b198-3767acdf2cde.jpg",
-"publishedAt": "2024-07-04T09:32:53Z",
-"content": "By João da Silva, Business reporter\r\nMG owner SAIC is one the car makers hardest hit by the new tariffs\r\nThe European Union has raised tariffs on Chinese electric vehicles, as Brussels takes action t… [+8466 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "BBC News"
-},
-"author": null,
-"title": "Amazon founder Jeff Bezos plans $5bn share sale - BBC.com",
-"description": "In February, Mr Bezos announced that he would sell shares in technology giant worth around $8.5bn.",
-"url": "https://www.bbc.com/news/articles/c51yvm3354qo",
-"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58a8/live/cc81b960-39cc-11ef-aef7-69a8c09415e5.jpg",
-"publishedAt": "2024-07-04T09:32:53Z",
-"content": "Amazon founder Jeff Bezos says he will sell another 25 million shares in the technology giant, worth nearly $5bn (£3.9bn).\r\nIt comes after the company's stock market value hit a record high on Wednes… [+1373 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Yahoo Entertainment"
-},
-"author": "Chayut Setboonsarng",
-"title": "China's BYD opens EV factory in Thailand, first in Southeast Asia - Yahoo Finance",
-"description": "RAYONG, Thailand (Reuters) -China's BYD opened an electric vehicle plant in Thailand on Thursday, the automaker's first factory in Southeast Asia, a fast...",
-"url": "https://finance.yahoo.com/news/chinas-byd-opens-ev-factory-035948516.html",
-"urlToImage": "https://media.zenfs.com/en/reuters-finance.com/af26229862b17fde609da4780ca6917d",
-"publishedAt": "2024-07-04T08:08:30Z",
-"content": "By Chayut Setboonsarng\r\nRAYONG, Thailand (Reuters) -China's BYD opened an electric vehicle plant in Thailand on Thursday, the automaker's first factory in Southeast Asia, a fast-growing regional EV m… [+2347 chars]"
-},
--{
--"source": {
-"id": "google-news",
-"name": "Google News"
-},
-"author": "Yahoo Finance",
-"title": "Apple's New Artificial Intelligence (AI) Features Could Push This Semiconductor Company to a $1 Trillion Valuation - Yahoo Finance",
-"description": null,
-"url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hcHBsZXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWktZmVhdHVyZXMtMDgwODAwMjk2Lmh0bWzSAQA?oc=5",
-"urlToImage": null,
-"publishedAt": "2024-07-04T08:08:00Z",
-"content": null
-},
--{
--"source": {
-"id": "associated-press",
-"name": "Associated Press"
-},
-"author": "JILL LAWLESS",
-"title": "UK general election 2024: Labour hopeful, Conservatives morose as polls open - The Associated Press",
-"description": "British voters are picking a new government in a parliamentary election Thursday that is widely expected to bring the opposition Labour Party to power. Against a backdrop of economic malaise, mounting distrust of government institutions and a fraying social f…",
-"url": "https://apnews.com/article/uk-election-labour-conservatives-polling-day-3c89a7974f05748943adfbebf03d3db6",
-"urlToImage": "https://dims.apnews.com/dims4/default/90b963d/2147483647/strip/true/crop/3173x1785+0+166/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2Ff0%2Fcebe670fee7a402333acf7fb720f%2Fc357309bce904202910b2af855dac9c4",
-"publishedAt": "2024-07-04T07:29:00Z",
-"content": "LONDON (AP) British voters are picking a new government Thursday in a parliamentary election that is widely expected to bring the Labour Party to power against a gloomy backdrop of economic malaise, … [+3827 chars]"
-},
--{
--"source": {
-"id": "axios",
-"name": "Axios"
-},
-"author": "Axios",
-"title": "Heat alerts hit 21 states as triple-digit temperatures sweep U.S. over July 4 weekend - Axios",
-"description": null,
-"url": "https://www.axios.com/2024/07/04/july-fourth-heat-wave-21-states-forecast",
-"urlToImage": null,
-"publishedAt": "2024-07-04T06:42:56Z",
-"content": null
-},
--{
--"source": {
-"id": null,
-"name": "SamMobile"
-},
-"author": "SamMobile, Asif Iqbal Shaik",
-"title": "Every imaginable Galaxy Z Flip 6, Fold 6 specification has leaked - SamMobile - Samsung news",
-"description": "Samsung can't stop the leaks! A week before its next Galaxy Unpacked launch event, Galaxy Z Flip 6 and Galaxy ...",
-"url": "https://www.sammobile.com/news/galaxy-z-flip-6-fold-6-specification-leaked-detail/",
-"urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/07/Galaxy-Z-Flip-5-and-Fold-5-official-720x405.jpg",
-"publishedAt": "2024-07-04T05:26:00Z",
-"content": "Samsung can't stop the leaks! A week before its next Galaxy Unpacked launch event, Galaxy Z Flip 6 and Galaxy Z Fold 6 specifications have leaked in detail. And this leak reveals some exciting things… [+4049 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "KABC-TV"
-},
-"author": null,
-"title": "Firefly Aerospace launch of Alpha rocket lights up SoCal sky - Video - KABC-TV",
-"description": "Southern California got a look at another rocket launch that lit up the night sky.",
-"url": "https://abc7.com/post/firefly-aerospace-launch-alpha-rocket-lights-socal-sky/15027184/",
-"urlToImage": "https://cdn.abcotvs.com/dip/images/15027491_070424-kabc-11pm-firefly-launch-vid.jpg?w=1600",
-"publishedAt": "2024-07-04T05:16:07Z",
-"content": "VANDENBERG SPACE FORCE BASE, Calif. (KABC) -- Southern California got a look at another rocket launch that lit up the night sky.\r\nFirefly Aerospace launched its Alpha rocket from Vandenberg Space For… [+510 chars]"
-},
--{
--"source": {
-"id": "google-news",
-"name": "Google News"
-},
-"author": "NDTV Movies",
-"title": "High School Musical Star Vanessa Hudgens And Cole Tucker Welcome First Child - NDTV Movies",
-"description": null,
-"url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvdmFuZXNzYS1odWRnZW5zLWFuZC1jb2xlLXR1Y2tlci13ZWxjb21lLWZpcnN0LWNoaWxkLXNlZS1nbGltcHNlLW9mLW5ld2Jvcm4tYmFieS02MDMwNDEy0gGAAWh0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvdmFuZXNzYS1odWRnZW5zLWFuZC1jb2xlLXR1Y2tlci13ZWxjb21lLWZpcnN0LWNoaWxkLXNlZS1nbGltcHNlLW9mLW5ld2Jvcm4tYmFieS02MDMwNDEyL2FtcC8x?oc=5",
-"urlToImage": null,
-"publishedAt": "2024-07-04T04:30:18Z",
-"content": null
-},
--{
--"source": {
-"id": null,
-"name": "Milwaukee Journal Sentinel"
-},
-"author": "Lawrence Andrea",
-"title": "Joe Biden addresses debate performance with Milwaukee radio host - Milwaukee Journal Sentinel",
-"description": "“I had a bad night,\" President Joe Biden told Milwaukee radio host Earl Ingram in a pre-recorded interview set to air Thursday morning.",
-"url": "https://www.jsonline.com/story/news/politics/elections/2024/07/03/joe-biden-addresses-debate-performance-with-milwaukee-radio-host/74298805007/",
-"urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2024/05/08/PMJS/73619781007-mjs-biden-00305.JPG?crop=2399,1350,x0,y0&width=2399&height=1350&format=pjpg&auto=webp",
-"publishedAt": "2024-07-04T04:30:00Z",
-"content": "WASHINGTON President Joe Biden in a Milwaukee radio interview on Wednesday said he screwed up during the debate with former President Donald Trump last week marking some of the first public comments … [+2778 chars]"
-},
--{
--"source": {
-"id": "the-washington-post",
-"name": "The Washington Post"
-},
-"author": "Marianna Sotomayor, Leigh Ann Caldwell, Jacqueline Alemany",
-"title": "Jeffries seeks to stem House defections, for now, as Democrats panic over Biden - The Washington Post",
-"description": "The House Democratic leader, who hopes to be speaker under a Democratic majority post-November, is seeking to stem defections among his rank-and-file.",
-"url": "https://www.washingtonpost.com/politics/2024/07/03/hakeem-jeffries-biden-house-democrats-step-down-doggett-grijalva/",
-"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PT7JAMR3Q2VZA6QBUCPYTZ22RM.JPG&w=1440",
-"publishedAt": "2024-07-04T04:21:05Z",
-"content": "As of early Wednesday morning, President Biden had called just one congressional leader personally in the wake of his faltering debate performance: Hakeem Jeffries.\r\nThat the president chose Jeffries… [+11527 chars]"
-},
--{
--"source": {
-"id": "usa-today",
-"name": "USA Today"
-},
-"author": "Gabe Hauari",
-"title": "What's open and closed on July 4th? Details on stores, restaurants, Walmart, Costco, Target, more - USA TODAY",
-"description": "Here's how Costco, Walmart, Target, Starbucks, McDonald's and other big name companies are operating on the Fourth of July this year.",
-"url": "https://www.usatoday.com/story/money/2024/07/04/whats-open-closed-july-4th-2024/74291180007/",
-"urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/21/USAT/74165037007-usatsi-22594287.jpg?crop=2199,1237,x0,y116&width=2199&height=1237&format=pjpg&auto=webp",
-"publishedAt": "2024-07-04T04:02:06Z",
-"content": "Banks and post offices will be closed on Thursday, July 4 in observance of Independence Day, however most major restaurant, grocery and retail store chains will remain open on the holiday.\r\nCompanies… [+6012 chars]"
-},
--{
--"source": {
-"id": "the-washington-post",
-"name": "The Washington Post"
-},
-"author": "Lena H. Sun",
-"title": "4th human bird flu case reported in U.S. as Colorado farmworker is infected - The Washington Post",
-"description": "Health officials said the man had mild symptoms, reporting only eye inflammation, and has recovered.",
-"url": "https://www.washingtonpost.com/health/2024/07/03/bird-flu-colorado-dairy-farm-worker/",
-"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JQTHC6X4GPCAMM2NF7CVF2TBNU.jpg&w=1440",
-"publishedAt": "2024-07-04T03:40:55Z",
-"content": "A dairy worker in Colorado has been infected with bird flu, marking the fourth human case in an ongoing outbreak that started with detection of the disease in cattle this spring.\r\nColorado health off… [+3783 chars]"
-},
--{
--"source": {
-"id": "cnn",
-"name": "CNN"
-},
-"author": "Sophie Tanno, Rhea Mogul",
-"title": "‘Anyone who fell did not get up’: Survivors recall chaos and confusion at deadly crush in India - CNN",
-"description": "Eyewitnesses have recounted scenes of chaos and confusion after a religious festival in northern India ended in tragedy when over 100 people were killed in a crowd crush.",
-"url": "https://www.cnn.com/2024/07/03/india/india-crush-eyewitness-accounts-intl/index.html",
-"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20756934-26410-667-still.jpg?c=16x9&q=w_800,c_fill",
-"publishedAt": "2024-07-04T02:14:00Z",
-"content": "Eyewitnesses have recounted scenes of chaos and confusion after a religious festival in northern India ended in tragedy when scores of people were killed in a crowd crush.\r\nAt least 121 people died  … [+5114 chars]"
-}
-]
-}
+  "status": "ok",
+  "totalResults": 33,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Us Weekly"
+      },
+      "author": "Shelby Stivale",
+      "title": "BTS' Jin Named as 2024 Paris Olympics Torchbearer - Us Weekly",
+      "description": "BTS member Jin was named as a 2024 Paris Olympics torchbearer to spread a message of ‘harmony and peace’",
+      "url": "https://www.usmagazine.com/celebrity-news/news/bts-jin-named-as-2024-paris-olympics-torchbearer/#article",
+      "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2024/07/BTS-Member-Jin-to-Serve-as-Olympics-Torchbearer-After-Completing-Military-Service-.jpg?crop=43px%2C111px%2C1721px%2C907px&resize=1200%2C630&quality=86&strip=all",
+      "publishedAt": "2024-07-03T16:34:58Z",
+      "content": "Sign InUp with your social account\r\nContinue with Google\r\nContinue with Facebook\r\nContinue with Amazon\r\nContinue with AppleWe won't post to any of your accounts\r\nGet back to the \r\nHan Myung-Gu/GC Ima… [+2578 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Andrew Jeong, Taylor Telford",
+      "title": "Paramount and Skydance reach tentative merger deal - The Washington Post",
+      "description": "Skydance Media, which co-produced Mission: Impossible films and “Top Gun: Maverick,” has agreed to a preliminary deal, a person familiar with the matter said.",
+      "url": "https://www.washingtonpost.com/business/2024/07/03/paramount-skydance-merger-deal/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OX2R7PX7T3MZLU3H7YLUOMIXNA_size-normalized.JPG&w=1440",
+      "publishedAt": "2024-07-03T16:23:03Z",
+      "content": "Skydance Media, which helped produce Top Gun: Maverick and Mission: Impossible franchise films, has reached a tentative deal that would give it a controlling stake in Paramount Global, according to a… [+3074 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Leo Sands",
+      "title": "Ants can perform life-saving amputations on their wounded, study says - The Washington Post",
+      "description": "Scientists say the study on Florida Carpenter ants is the first recorded example of a nonhuman animal amputating a fellow member of its species to save its life.",
+      "url": "https://www.washingtonpost.com/science/2024/07/03/carpenter-ant-study-amputation-wounded/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQGK3BFI25GRXQIDOJXREDWMJM_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-07-03T16:09:48Z",
+      "content": "Until the discovery of antibiotic medicine last century, doctors frequently performed amputations to save the life of a patient with an infected wound.\r\nBut humans arent the only animal to perform th… [+5469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Ringer"
+      },
+      "author": "Katie Baker",
+      "title": "‘The Bear’ Strives for More. And in Season 3, That’s to Its Detriment. - The Ringer",
+      "description": "At its heart, ‘The Bear’ still captures the promise and the ruin of the restaurant industry. But in its latest season, it also fell prey to another industry reality: losing the ability to taste its own cooking.",
+      "url": "https://www.theringer.com/tv/2024/7/3/24191625/the-bear-season-3-issues-fx-hulu",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YU_fEXyqcyt-cdxgg5WKCKvCtwc=/0x30:1200x658/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25516823/bearS3_hulu_getty_ringer.jpg",
+      "publishedAt": "2024-07-03T15:55:31Z",
+      "content": "This past weekend, as I binge-watched the restaurant bros of The Bear futzing around with kitchen tweezers and slinging fuck-yous back and forth, I found myself lost in thought about a real-life rest… [+10327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Here's who Democratic voters would support if Biden dropped out - BBC.com",
+      "description": "We asked Democratic voters if they thought Joe Biden should be replaced and by whom.",
+      "url": "https://www.bbc.com/news/articles/c6p2w01lg77o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1bf4/live/b94b9840-392f-11ef-a9d9-4150f59da0fd.png",
+      "publishedAt": "2024-07-03T15:54:09Z",
+      "content": "By Ana Faguy, BBC News, Washington\r\nIn the days since President Joe Biden's widely-criticised debate performance against former president Donald Trump, Democrats across the country have begun questio… [+8510 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JOHN MYERS JR., RENLOY TRAIL",
+      "title": "Hurricane Beryl roars toward Jamaica after killing at least 6 people in the southeast Caribbean - The Associated Press",
+      "description": "Hurricane Beryl is roaring toward Jamaica as islanders scramble to make preparations after the powerful Category 4 storm earlier killed at least six people and caused significant damage in the southeast Caribbean. People in Kingston boarded up windows and fis…",
+      "url": "https://apnews.com/article/hurricane-beryl-caribbean-jamaica-cayman-islands-774803fc70e187ea96e7df10f84d8a50",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8632666/2147483647/strip/true/crop/4096x2304+0+214/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2F15%2F983f362c508edaa16c48bbcdad71%2Fb603c8c859864b82900500e82b41cfa6",
+      "publishedAt": "2024-07-03T15:13:00Z",
+      "content": "KINGSTON, Jamaica (AP) Hurricane Beryl was roaring toward Jamaica on Wednesday, with islanders scrambling to make preparations after the powerful Category 4 storm earlier killed at least six people a… [+5998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Jacklin Kwan",
+      "title": "280 million-year-old swamp monster with 'big, flat toilet seat-shaped head' discovered in Namibia - Livescience.com",
+      "description": "Giant salamander-like predator that lived 40 million years before the first dinosaurs had huge fangs and sucked up prey with its weird head.",
+      "url": "https://www.livescience.com/animals/extinct-species/280-million-year-old-swamp-monster-with-big-flat-toilet-seat-shaped-head-discovered-in-namibia",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/49Ws5CzigGQJUuS6Zmw2K3-1200-80.jpg",
+      "publishedAt": "2024-07-03T15:00:56Z",
+      "content": "Researchers in Namibia have discovered fossils from a huge, extinct swamp creature with a toilet seat-shaped skull.\r\nGaiasia jennyae existed around 280 million years ago — about 40 million years befo… [+3399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Ozempic and Wegovy Linked to Rare Blindness Risk, Study Finds - Gizmodo",
+      "description": "New research has found a potential link between semaglutide use and a rare eye condition called NAION, though more work is needed to prove causation.",
+      "url": "https://gizmodo.com/ozempic-wegovy-link-rare-blindness-risk-1851575151",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2c25241312f9b28921e0c49224ca5dd9.jpg",
+      "publishedAt": "2024-07-03T15:00:00Z",
+      "content": "New research released on Wednesday suggests that Ozempic and similar medications may have unexpected side effects. Doctors in Massachusetts have found a link between the drugs active ingredient semag… [+4283 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ERIC TUCKER",
+      "title": "Supreme Court opinion conferring broad immunity could embolden Trump as he seeks to return to power - The Associated Press",
+      "description": "A Supreme Court opinion giving broad immunity to former President Donald Trump matters in the current presidential race. That's because the presumptive Republican nominee has been public about wanting to pursue the same boundary-obliterating conduct that defi…",
+      "url": "https://apnews.com/article/trump-supreme-court-immunity-jan-6-05af7a7325a03bcb1ce0ad22ec389f1c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fd9ca09/2147483647/strip/true/crop/3935x2213+0+205/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff8%2F77%2Fbe87e62c38613ea114681a2e4cb8%2Fd1de7780989e4968b11d77e8d9f7cbbc",
+      "publishedAt": "2024-07-03T14:57:00Z",
+      "content": "WASHINGTON (AP) In her dissent from a Supreme Court opinion that afforded former President Donald Trump broad immunity, Justice Sonia Sotomayor pondered the potential doomsday consequences: A preside… [+6596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Irina Slav",
+      "title": "Oil Prices Rise As EIA Confirms Huge Crude Draw | OilPrice.com - OilPrice.com",
+      "description": "Oil prices rose on Wednesday morning after the EIA confirmed a very large draw in crude inventories",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-As-EIA-Confirms-Huge-Crude-Draw.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-07-03_mnvnf1hqbb.jpg",
+      "publishedAt": "2024-07-03T14:37:58Z",
+      "content": "Despite controlling Iraqi Kurdistan's oil…\r\nThe rebound in Brazil's crude…\r\nJust because efficiency gains boosted…\r\nBy Irina Slav - Jul 03, 2024, 9:37 AM CDT\r\nCrude oil prices moved higher today afte… [+2151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Amy Graff",
+      "title": "13000 evacuated as Northern California's Thompson Fire burns - SFGATE",
+      "description": "The Thompson Fire is burning on the outskirts of Oroville, California, and led 13,000 people to evacuate their homes.",
+      "url": "https://www.sfgate.com/california-wildfires/article/northern-california-thompson-fire-burns-wildfire-19553165.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/40/43/75/25313089/6/rawImage.jpg",
+      "publishedAt": "2024-07-03T14:33:22Z",
+      "content": "A firefighter runs while battling the Thompson Fire burning in Oroville, Calif., Tuesday, July 2, 2024. An extended heat wave blanketing Northern California has resulted in red flag fire warnings and… [+3207 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Marianne Garvey",
+      "title": "Travis Kelce reveals his No. 1 rule on stage with Taylor Swift: ‘Do not drop the baby’ - CNN",
+      "description": "Travis Kelce has opened up about his surprise cameo during Taylor Swift’s Eras Tour stop in London.",
+      "url": "https://www.cnn.com/2024/07/03/entertainment/travis-kelce-taylor-swift-eras-tour-cameo/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2158904096-20240703131709680.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-07-03T14:08:00Z",
+      "content": "Travis Kelce has opened up about his surprise cameo during Taylor Swifts Eras Tour stop in London.\r\nThe Chiefs player, who has been dating Swift for nearly a year, talked about how the moment came to… [+1921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jeffry Bartash",
+      "title": "Businesses show biggest contraction since pandemic, signaling weaker economy - MarketWatch",
+      "description": "ISM services index sinks to 48.8% in June — the lowest reading since 2020",
+      "url": "https://www.marketwatch.com/story/u-s-businesses-show-biggest-contraction-since-pandemic-ism-finds-ce7cbeca",
+      "urlToImage": "https://images.mktw.net/im-09604370/social",
+      "publishedAt": "2024-07-03T14:07:00Z",
+      "content": "The numbers:  Service-oriented companies such as restaurants and retailers that dominate the economy contracted in June for the second time in three months in another sign growth in the U.S. is wanin… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "If Intel can't come up with a Qualcomm-killer soon, it's game over for x86 PCs - ZDNet",
+      "description": "Qualcomm's introduction of the Snapdragon X, which runs every new Copilot+ Windows PC, has created an existential crisis for Intel. Can the x86 architecture handle the competition?",
+      "url": "https://www.zdnet.com/article/if-intel-cant-come-up-with-a-qualcomm-killer-soon-its-game-over-for-x86-pcs/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e27b6d5eddd5e1f670827fc1587e86df9693cb87/2024/06/28/676a0d81-9f68-4fb5-a841-294bffb66413/img-6130.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-03T13:12:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFor as long as I can remember, Microsoft and Intel have been inseparable partners. Intel made the x86 chips that were the heart of a PC motherboard, and Microsoft made the Windo… [+5424 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Adrian Wojnarowski",
+      "title": "Sources - LeBron James staying with Lakers on $104M deal - ESPN",
+      "description": "LeBron James has agreed to a two-year, $104 million maximum contract to return to the Lakers, sources told ESPN, on a deal includes a player option for the 2025-26 season and a no-trade clause.",
+      "url": "https://www.espn.com/nba/story/_/id/40487976/sources-lebron-james-staying-lakers-2-years-104m",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0428%2Fr1325628_3_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-07-03T12:28:00Z",
+      "content": "LeBron James has agreed to return to the Los Angeles Lakers on a two-year, $104 million contract that includes a player option for 2025-26 and a no-trade clause, sources told ESPN on Wednesday.\r\nThe … [+2405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Tony Kurzweil",
+      "title": "California Mega Millions player hits big in Tuesday’s drawing - KTLA Los Angeles",
+      "description": "A Mega Millions player in California won big by matching five numbers in Tuesday night’s drawing. The ticket sold at Diablo Chevron in Danville matched all five numbers but missed the mega number. While the owner of the lucky ticket won’t take home the $137 m…",
+      "url": "https://ktla.com/news/california/california-mega-millions-player-hits-big-in-tuesdays-drawing/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/03/MegaMillionsGettyImages-458636507-e1709222177385.jpg?w=1280",
+      "publishedAt": "2024-07-03T12:09:55Z",
+      "content": "A Mega Millions player in California won big by matching five numbers in Tuesday night’s drawing. \r\nThe ticket sold at Diablo Chevron in Danville matched all five numbers but missed the mega number. … [+368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Phelan",
+      "title": "Apple To Upgrade iPhone 16 Design In Important Way, New Leak Claims - Forbes",
+      "description": "The latest report claims that as key element of the iPhone’s design, the battery, is about to change.",
+      "url": "https://www.forbes.com/sites/davidphelan/2024/07/03/apple-to-upgrade-iphone-16-design-in-important-way-new-leak-claims/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6510902b98dc8048dc9aea96/0x0.jpg?format=jpg&crop=2690,1513,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-03T11:17:53Z",
+      "content": "Updated July 3 with details of new report on how the design will be updated with a new processor across multiple models of iPhone 16.\r\nThe next iPhones, the iPhone 16 series, are expected to include … [+3758 chars]"
+    }
+  ]
